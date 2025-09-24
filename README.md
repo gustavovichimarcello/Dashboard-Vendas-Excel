@@ -1,6 +1,6 @@
 # 📊 Dashboard de Vendas em Excel
 
-![Preview do Dashboard](./Preview%20do%20Dashboard.png)
+![Preview do Dashboard](./Preview_Dashboard.png)
 
 ## 📌 Sobre o Projeto
 Este projeto apresenta um **dashboard interativo de vendas** desenvolvido no **Microsoft Excel**.  
